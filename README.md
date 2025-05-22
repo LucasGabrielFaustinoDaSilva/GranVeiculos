@@ -1,2 +1,2 @@
 # GranVeiculos
-Aplicação WEBAPI .Net 9, para estudo CRUD com dados de veículos
+Aplicação WEBAPI .Net 9, para estudo de CRUD com dados de veículos
